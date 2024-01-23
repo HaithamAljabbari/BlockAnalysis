@@ -1,7 +1,8 @@
 <h1><u>Blockchain Analysis</u></h1>
 
 <h3>There is no special command line arguments<br>Run it like this</h3>
-``` 
+
+```
 python3 main.py
 ```
 
